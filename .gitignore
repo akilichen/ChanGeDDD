@@ -1,0 +1,5 @@
+/.idea/*
+/pkg/*
+/DDD/Learning/go-programer/*.exe
+bin/
+/DDD/vendor
