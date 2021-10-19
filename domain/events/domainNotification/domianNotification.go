@@ -15,3 +15,7 @@ func NewDomainNotification(key, value string) *DomainNotification {
 		Value:   value,
 	}
 }
+
+func (p DomainNotification) PlaceHolder() {
+
+}
